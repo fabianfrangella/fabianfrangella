@@ -11,7 +11,7 @@ I'm also learning game development, you can download a demo from my [itch.io](ht
 - Kotlin
 - Java
 - NodeJs
-- Spring (MVC, DataJPA, Security, AOP
+- Spring (MVC, DataJPA, Security, AOP)
 - PostgreSQL
 - MySQL
 - ExpressJS
@@ -37,7 +37,7 @@ I'm also learning game development, you can download a demo from my [itch.io](ht
 - Blender (Basic)
 - Gimp (Basic)
 
-
+[You can have a look at some of my personal and university projects](https://github.com/fabianfrangella?tab=repositories) 
 <!--
 **fabianfrangella/fabianfrangella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
