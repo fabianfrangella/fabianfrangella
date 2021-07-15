@@ -1,5 +1,8 @@
-### Hi there 👋
+# Fabian Frangella 
 
+### Hello There 👋
+
+I'm a software developer. I'm currently working at Ibisdev with multiple techonologies and languages, also I'm a student at [National University of Quilmes](http://www.unq.edu.ar/)
 <!--
 **fabianfrangella/fabianfrangella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
