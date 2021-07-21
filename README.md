@@ -2,7 +2,7 @@
 
 ## Hello There 👋
 
-I'm a software developer working at [IbisDev](https://www.ibisdev.tech/) with multiple techonologies and languages. I'm studying at [National University of Quilmes](http://www.unq.edu.ar/).
+I'm a software developer from Argentina working at [IbisDev](https://www.ibisdev.tech/) with multiple techonologies and languages. I'm studying at [National University of Quilmes](http://www.unq.edu.ar/).
 I'm also learning game development, you can download a demo from my [itch.io](https://fabicaster.itch.io/action-rpg-demo-test) page and checkout the [repository](https://github.com/fabianfrangella/ludover-game-2021).
 
 ## Technologies I mostly use
@@ -11,7 +11,7 @@ I'm also learning game development, you can download a demo from my [itch.io](ht
 - Kotlin
 - Java
 - NodeJs
-- Spring (MVC, DataJPA, Security, AOP)
+- Spring (MVC, Data, Security, AOP)
 - PostgreSQL
 - MySQL
 - ExpressJS
