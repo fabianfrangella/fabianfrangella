@@ -1,6 +1,7 @@
 # Fabian Frangella 
 
 ## Hello There 👋
+![hellothere](https://user-images.githubusercontent.com/19980391/127412316-0a80e8eb-8eb6-4f77-97a6-c1a88f43c0c0.jpg)
 
 I'm a software developer from Argentina working at [IbisDev](https://www.ibisdev.tech/) with multiple techonologies and languages. I'm studying at [National University of Quilmes](http://www.unq.edu.ar/).
 I'm also learning game development, you can download a demo from my [itch.io](https://fabicaster.itch.io/action-rpg-demo-test) page and checkout the [repository](https://github.com/fabianfrangella/ludover-game-2021).
