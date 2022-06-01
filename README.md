@@ -13,10 +13,11 @@ You can contact me on [Linkedin](https://www.linkedin.com/in/fabian-frangella/)
 ***Backend***
 - Kotlin
 - Java
-- NodeJs
-- Spring (MVC, Data, Security, AOP)
+- NodeJs (JS & TS)
+- Spring (MVC, Data, Security, AOP, WebFlux)
 - PostgreSQL
 - MySQL
+- DynamoDB
 - ExpressJS
 - Loopback4
 - Docker
@@ -33,6 +34,15 @@ You can contact me on [Linkedin](https://www.linkedin.com/in/fabian-frangella/)
 - Cucumber
 - Jest
 - Mocha
+
+***SaaS***
+- AWS S3
+- AWS EC2
+- AWS EKS
+- AWS Lambda
+- AWS SNS
+- AWS SQS
+- AWS SES
 
 ***Game Development***
 - C#
