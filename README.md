@@ -19,6 +19,7 @@ You can contact me on [Linkedin](https://www.linkedin.com/in/fabian-frangella/)
 - MySQL
 - DynamoDB
 - ExpressJS
+- Sequelize
 - Loopback4
 - Docker
 
