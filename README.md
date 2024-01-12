@@ -3,16 +3,16 @@
 ## Hello There 👋
 ![hellothere](https://user-images.githubusercontent.com/19980391/127412316-0a80e8eb-8eb6-4f77-97a6-c1a88f43c0c0.jpg)
 
-I'm a software developer from Argentina working at [NaranjaX](https://www.naranjax.com/) with multiple techonologies and languages, mostly NodeJS. I'm studying at [Universidad Nacional de Quilmes](http://www.unq.edu.ar/).
-I'm also learning game development, you can download a demo from my [itch.io](https://fabicaster.itch.io/action-rpg-demo-test) page and checkout the [repository](https://github.com/fabianfrangella/ludover-game-2021).
+I'm a software developer from Argentina working at [Kopius Inc.](https://kopiustech.com) with multiple techonologies and languages, mostly Java. I'm studying at [Universidad Nacional de Quilmes](http://www.unq.edu.ar/).
+I'm also learning game development, you can download a few demos from my [itch.io](https://fabicaster.itch.io/action-rpg-demo-test) page and checkout the [repositories](https://github.com/fabianfrangella).
 
 You can contact me on [Linkedin](https://www.linkedin.com/in/fabian-frangella/)
 
 ## Technologies I mostly use
 
 ***Backend***
-- Kotlin
 - Java
+- Kotlin
 - NodeJs (JS & TS)
 - Spring (MVC, Data, Security, AOP, WebFlux)
 - PostgreSQL
@@ -47,6 +47,7 @@ You can contact me on [Linkedin](https://www.linkedin.com/in/fabian-frangella/)
 
 ***Game Development***
 - C#
+- Godot
 - Unity2D
 - Blender (Basic)
 - Gimp (Basic)
